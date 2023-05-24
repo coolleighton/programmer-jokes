@@ -75,7 +75,8 @@ body {
     cursor: pointer;
 }
 
-.copy {
+.git-link {
+    text-decoration: none;
     position: absolute;
     font-size: 30px;
     right: 0;
